@@ -30,3 +30,12 @@ This is the output as constellations before and after the Polyphase Clock Sync b
 ![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/cbd3be95-40ce-4739-8420-7c16b756e3bc)
 
 This is the output as constellations before and after the Polyphase Clock Sync block with 1V of noise added.
+
+### 64 QAM Variable Constellation
+![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/1a494b66-e1dc-411d-9593-7ac80b870959)
+
+This is the mapping used to create the 64 QAM manually.
+
+![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/a3f87756-68eb-441a-a419-51fcfb7dd523)
+
+This is the output as constellations before and after the Polyphase Clock Sync block.
