@@ -36,6 +36,10 @@ This is the output as constellations before and after the Polyphase Clock Sync b
 
 This is the mapping used to create the 64 QAM manually.
 
+![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/2447cc92-e9b5-4fbf-949e-182c89fe2a57)
+
+This is the flowchart used to create the 64 QAM just changing the constellation object.
+
 ![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/a3f87756-68eb-441a-a419-51fcfb7dd523)
 
-This is the output as constellations before and after the Polyphase Clock Sync block.
+This is the output as constellations before and after the Polyphase Clock Sync block with no noise.
