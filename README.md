@@ -31,7 +31,7 @@ This is the output as constellations before and after the Polyphase Clock Sync b
 
 This is the output as constellations before and after the Polyphase Clock Sync block with 1V of noise added.
 
-## Failed Project Ideas
+## Other Ideas
 ### WiFi Emulation
 ![image](https://github.com/blee0730/Digital-Comm-Final-Project/assets/130094173/a83639b0-2c2d-47b9-9c65-c3f4fcc8cbda)
 
